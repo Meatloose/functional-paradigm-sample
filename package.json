@@ -1,0 +1,11 @@
+{
+  "name": "web-express-starter",
+  "dependencies": {
+    "moment": "^2.10.5"
+  },
+  "devDependencies": {
+    "accounting": "^0.4.1",
+    "data.task": "^3.0.0",
+    "ramda": "^0.19.1"
+  }
+}
