@@ -1,8 +1,5 @@
 {
-  "name": "web-express-starter",
-  "dependencies": {
-    "moment": "^2.10.5"
-  },
+  "name": "functional-paradigm",
   "devDependencies": {
     "accounting": "^0.4.1",
     "data.task": "^3.0.0",
